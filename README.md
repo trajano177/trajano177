@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Mateus+Oliveira;I'm+22+years+old;I+from+Brasil,+MG;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Matheus+Trajano;I'm+22+years+old;I+from+Brasil,+MG;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
 - 🔭 Atualmente estou trabalhando de Analista de Suporte na FDC Sistemas e estudando Front-End React JS | JavaScript
